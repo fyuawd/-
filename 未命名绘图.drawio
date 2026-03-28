@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.6">
+  <diagram name="第 1 页" id="wGv_CuR6aYVhYTwAYTjQ">
+    <mxGraphModel dx="2113" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-29" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" value="" vertex="1">
+          <mxGeometry height="900" width="900" x="-180" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-1" parent="1" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;rounded=1;fontFamily=宋体;" value="开始" vertex="1">
+          <mxGeometry height="54" width="92" x="224" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-2" parent="1" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;fontFamily=宋体;" value="系统登录界面" vertex="1">
+          <mxGeometry height="54" width="156" x="192" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-3" parent="1" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;fontFamily=宋体;" value="输入账号密码" vertex="1">
+          <mxGeometry height="54" width="156" x="192" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-4" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=1;whiteSpace=wrap;strokeColor=default;fontFamily=宋体;" value="数据库" vertex="1">
+          <mxGeometry height="64" width="63" x="238.5" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-5" parent="1" style="rhombus;strokeWidth=1;whiteSpace=wrap;strokeColor=default;fontFamily=宋体;" value="验证信息是否正确" vertex="1">
+          <mxGeometry height="70" width="182" x="179" y="372" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-6" parent="1" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;fontFamily=宋体;" value="信息错误" vertex="1">
+          <mxGeometry height="54" width="124" x="-30" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-7" parent="1" style="rhombus;strokeWidth=1;whiteSpace=wrap;strokeColor=default;fontFamily=宋体;" value="判断用户角色" vertex="1">
+          <mxGeometry height="70" width="150" x="195" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-8" parent="1" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;fontFamily=宋体;" value="患者功能界面" vertex="1">
+          <mxGeometry height="54" width="156" x="398" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-9" parent="1" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;fontFamily=宋体;" value="医生功能界面" vertex="1">
+          <mxGeometry height="54" width="156" x="192" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-10" parent="1" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;fontFamily=宋体;" value="管理员功能界面" vertex="1">
+          <mxGeometry height="54" width="172" x="-30" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-11" parent="1" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;fontFamily=宋体;" value="功能处理界面" vertex="1">
+          <mxGeometry height="54" width="156" x="192" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-12" parent="1" style="whiteSpace=wrap;strokeWidth=1;strokeColor=default;rounded=1;fontFamily=宋体;" value="结束" vertex="1">
+          <mxGeometry height="54" width="92" x="224" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-13" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-1" style="startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-14" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-2" style="startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="154" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-15" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-3" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;strokeColor=default;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-16" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-4" style="startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-17" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-5" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;strokeColor=default;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-6" value="否">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-18" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-6" style="startArrow=none;endArrow=block;exitX=0.47;exitY=0;entryX=0;entryY=0.5;rounded=0;strokeColor=default;strokeWidth=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-19" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-5" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-7" value="是">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-20" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-7" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-8" value="患者">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-21" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-7" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-9" value="医生">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-22" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-7" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-10" value="管理员">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-23" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-8" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-24" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-9" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;strokeColor=default;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-25" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-10" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ALfHKZ4OBvOJamzrYDj-26" edge="1" parent="1" source="-ALfHKZ4OBvOJamzrYDj-11" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;strokeColor=default;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;fontFamily=宋体;" target="-ALfHKZ4OBvOJamzrYDj-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
